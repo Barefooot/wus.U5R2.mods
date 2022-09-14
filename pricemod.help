@@ -10,11 +10,11 @@
 # mod - https://github.com/Yoplitein/pricemod
 
 
-# rodTransmutation	668, 2g
-price0=668,2000000
+# rodTransmutation	668, 1g
+price0=668,1000000
 
-# declarationIndependence, 20g
-price1=682,20000000
+# declarationIndependence, 999g
+price1=682,999000000
 
 # sleepPowder	666, 2s
 price2=666,20000
@@ -22,5 +22,5 @@ price2=666,20000
 # resurrectionStone	509, 2s
 price3=509,20000
 
-# traderContract	299, 999g
-price4=299,999000000
+# traderContract	299, 25s
+price4=299,250000
