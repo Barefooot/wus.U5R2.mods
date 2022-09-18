@@ -28,3 +28,5 @@ hs_err_pid*
 *.crash
 /scriptrunner.config
 /creaturesdb.properties
+/scriptrunner/*
+/PollSpawner/log.txt
