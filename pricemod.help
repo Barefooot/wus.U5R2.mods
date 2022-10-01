@@ -24,3 +24,6 @@ price3=509,20000
 
 # traderContract	299, 25s
 price4=299,250000
+
+#handMirror	781, 10s
+price5=781,100000
